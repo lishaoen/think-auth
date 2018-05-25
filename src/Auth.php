@@ -6,7 +6,7 @@
 // +----------------------------------------------------------------------
 // | Author: lishaoen <lishaoenbh@qq.com>
 // +----------------------------------------------------------------------
-namespace think\auth;
+namespace lishaoen\auth;
 
 use think\Db;
 use think\Request;
